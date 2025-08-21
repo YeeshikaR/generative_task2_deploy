@@ -1,0 +1,5 @@
+streamlit
+plotly
+skyfield 
+matplotlib 
+numpy
